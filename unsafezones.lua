@@ -1,5 +1,5 @@
 -- Enable this to automatically show all unsafe zones with colored blips and radius circles.
-Config.EnableUnsafeZoneDebug = true
+Config.EnableUnsafeZoneDebug = false
 Config.UnsafeZoneDebugBlipSprite = 161
 Config.UnsafeZoneDebugBlipScale = 0.8
 Config.UnsafeZoneDebugRadiusAlpha = 90

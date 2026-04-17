@@ -1,5 +1,5 @@
 -- Enable this to automatically show all configured mechanic spawn points on the map.
-Config.EnableSpawnPointDebug = true
+Config.EnableSpawnPointDebug = false
 
 -- Fixed tow truck spawn points.
 -- Use vector4(x, y, z, heading) so the truck spawns already facing the intended road direction.

@@ -1,7 +1,7 @@
 Config = {}
 
 -- Active language: de / en / ru
-Config.Locale = 'ru'
+Config.Locale = 'en'
 
 -- Command used to request the NPC mechanic
 Config.Command = 'mechanic'
