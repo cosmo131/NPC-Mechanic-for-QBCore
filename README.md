@@ -1,5 +1,7 @@
 # NPC Mechanic
 
+![NPC Mechanic Title](./.github-assets/title.png)
+
 `NPC Mechanic` is a mobile NPC roadside assistance script for FiveM/QBCore.
 
 Players can call an NPC mechanic who drives to their location and can:
