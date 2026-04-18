@@ -1,4 +1,4 @@
-﻿Locales = {
+Locales = {
     de = {
         spawnpoint_label = 'Mechaniker Spawnpunkt',
         mechanic_blip_label = 'NPC Mechaniker',
